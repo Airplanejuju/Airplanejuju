@@ -1,5 +1,5 @@
 <style>
-  rect .u {
+  rect.u {
    display: none;
   }
 </style>
